@@ -1,0 +1,130 @@
+{
+	"id": "71fa3d4e-280c-4752-9186-b18e13720e25",
+	"createdAt": "2024-09-14T22:43:33.170Z",
+	"createdBy": "morten.prom@neptune-software.com",
+	"extUserRoles": [],
+	"extUserDepartments": [],
+	"catOrder": [
+		"41b472ad-657a-4ea5-95ae-3f693f555f23",
+		"add31352-fcc1-43e1-b9d6-2409344c7496",
+		"c1aebb86-6128-4427-b8e7-e53c7cc57458",
+		"e538ea34-7f6a-450c-98a1-1f9318df2d12",
+		"82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
+		"6ee4ebe8-a57c-48c0-b805-da0037aa3307"
+	],
+	"layout": [],
+	"config": {
+		"showAccessibilityFocusIndicator": true,
+		"enhancement": "",
+		"disableCustomizations": true,
+		"enableTopMenu": true,
+		"verticalMenu": false,
+		"activeAppsSide": false,
+		"activeAppsTop": true,
+		"showAppTitle": true,
+		"pincode": true,
+		"pincodeTries": 5,
+		"pincodeLength": 4,
+		"pincodeKeyIterations": 40000
+	},
+	"enhancement": [
+		{
+			"title": "Set User Info",
+			"name": "setUserInfo",
+			"description": "Triggers when we set username in the launchpad",
+			"param": "",
+			"sort": 32,
+			"group": "Common",
+			"content": "",
+			"active": false,
+			"disabled": false
+		}
+	],
+	"name": "NHL",
+	"title": "NHL",
+	"description": "National Hockey League",
+	"startApp": null,
+	"startWebApp": null,
+	"customLogo": null,
+	"launchpadApp": "",
+	"hideSidemenu": false,
+	"ui5Version": "1.108",
+	"ui5Url": null,
+	"ui5Theme": "sap_fiori_3",
+	"header": "",
+	"customTheme": "b7e03218-bec2-40c8-a58a-52098978235d",
+	"isExternal": null,
+	"emailPattern": null,
+	"loginApp": "planet9_login",
+	"enableNotifications": false,
+	"firebaseProjectId": null,
+	"firebaseAppId": null,
+	"defaultLoginIDP": null,
+	"publicAccess": false,
+	"css": null,
+	"clientRequestTimeout": 120,
+	"limitWidth": false,
+	"searchBackgroundType": null,
+	"searchBackgroundColor": null,
+	"searchBackgroundShade": null,
+	"usedBackgroundType": null,
+	"usedBackgroundColor": null,
+	"usedBackgroundShade": null,
+	"searchEnableShadeCalc": null,
+	"usedEnableShadeCalc": null,
+	"enableTrace": false,
+	"ver": "24.10.08.0726",
+	"pwa_enable": false,
+	"pwa_customImageIos": null,
+	"pwa_customImageAndroidOld": null,
+	"pwa_customImageAndroidNew": null,
+	"pwa_desktopScreenshotWide": null,
+	"pwa_desktopScreenshotNarrow": null,
+	"pwa_displayMode": null,
+	"pwa_themeColor": "rgb(255,255,255)",
+	"layout_light": null,
+	"layout_dark": null,
+	"layout_preference": 0,
+	"pwa_backgroundColor": "rgb(255,255,255)",
+	"passwordResetEmail": null,
+	"activationCodeEmail": null,
+	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6",
+	"cat": [
+		{
+			"id": "e538ea34-7f6a-450c-98a1-1f9318df2d12",
+			"name": "nhl-menu-icon-title",
+			"title": "ICON & TITLE",
+			"ver": "24.10.08.1041"
+		},
+		{
+			"id": "c1aebb86-6128-4427-b8e7-e53c7cc57458",
+			"name": "nhl-menu-news",
+			"title": "NEWS",
+			"ver": "24.10.08.1041"
+		},
+		{
+			"id": "add31352-fcc1-43e1-b9d6-2409344c7496",
+			"name": "nhl-menu-teams",
+			"title": "TEAMS",
+			"ver": "24.10.08.1041"
+		},
+		{
+			"id": "82c25d29-6277-4a1d-8ee5-f23e640c8ce0",
+			"name": "nhl-menu-tile-image",
+			"title": "TILE IMAGE",
+			"ver": "24.10.08.1724"
+		},
+		{
+			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",
+			"name": "nhl-menu-favorites",
+			"title": "FAVORITES",
+			"ver": "24.10.08.1041"
+		},
+		{
+			"id": "41b472ad-657a-4ea5-95ae-3f693f555f23",
+			"name": "nhl-menu-image-filter",
+			"title": "IMAGE FILTER",
+			"ver": "24.10.08.1040"
+		}
+	]
+}
