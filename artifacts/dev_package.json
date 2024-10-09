@@ -418,5 +418,17 @@
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
-	"wf_taskaction": []
+	"wf_taskaction": [],
+	"theme_ui5": [
+		{
+			"id": "dab17d3f-3000-4298-815c-5c406fb082b5",
+			"theme": "neptune_hurricanes_light",
+			"description": "Neptune Hurricanes Light 1.120"
+		},
+		{
+			"id": "04ed67c1-6f02-4636-9bab-b94fdeb4f5a0",
+			"theme": "neptune_hurricanes_dark",
+			"description": "Neptune Hurricanes Dark 1.120"
+		}
+	]
 }
