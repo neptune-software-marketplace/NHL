@@ -53,7 +53,7 @@
 	"ui5Theme": "sap_fiori_3",
 	"header": "",
 	"customTheme": "b7e03218-bec2-40c8-a58a-52098978235d",
-	"isExternal": null,
+	"isExternal": false,
 	"emailPattern": null,
 	"loginApp": "planet9_login",
 	"enableNotifications": false,
