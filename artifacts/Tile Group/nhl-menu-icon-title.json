@@ -112,6 +112,12 @@
 	"headerFilterSaturate": null,
 	"headerBackgroundMaskImage": null,
 	"headerBackgroundMaskCustom": null,
+	"imageHeightMedia": null,
+	"imageTabletHeightMedia": null,
+	"imageMobileHeightMedia": null,
+	"imageDark": null,
+	"imageTabletDark": null,
+	"imageMobileDark": null,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
