@@ -11,8 +11,8 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
-	"title": "Tile Image Background Filter",
-	"subTitle": "Background images with top to bottom image mask and 75% opacity",
+	"title": "Tile Image Background Filter Mask",
+	"subTitle": "Background images with top to bottom image mask",
 	"description": null,
 	"titleAlignment": null,
 	"titleLevel": null,
@@ -32,7 +32,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.09.1044",
+	"ver": "24.10.10.1636",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -96,33 +96,48 @@
 	"cardFilterOpacity": "0",
 	"enableFilterSaturate": false,
 	"cardFilterSaturate": null,
-	"cardBackgroundMaskImage": "",
+	"cardBackgroundMaskImage": "T",
 	"cardBackgroundMaskCustom": null,
+	"headerFilterBlur": null,
+	"enableHeaderBrightness": false,
+	"headerFilterBrightness": null,
+	"enableHeaderGrayscale": false,
+	"headerFilterGrayscale": null,
+	"enableHeaderHuerotate": false,
+	"headerFilterHuerotate": null,
+	"enableHeaderInvert": false,
+	"headerFilterInvert": null,
+	"enableHeaderOpacity": false,
+	"headerFilterOpacity": null,
+	"enableHeaderSaturate": false,
+	"headerFilterSaturate": null,
+	"headerBackgroundMaskImage": null,
+	"headerBackgroundMaskCustom": null,
 	"roles": [],
 	"tiles": [
 		{
 			"id": "f29d8323-484c-47b2-bb77-99698adf76b4",
 			"name": "nhl-image-spacewalk",
 			"title": "Spacewalk",
-			"ver": "24.10.08.1035"
+			"ver": "24.10.10.1632"
 		},
 		{
 			"id": "4f5b2752-ed92-4ec7-a6fc-d30446b33939",
 			"name": "nhl-image-crew",
 			"title": "Crew",
-			"ver": "24.10.08.1036"
+			"ver": "24.10.10.1631"
 		},
 		{
 			"id": "3c24032a-d234-4c07-9a63-9087cdbe3940",
 			"name": "nhl-image-satelite",
 			"title": "Satelite",
-			"ver": "24.10.08.1036"
+			"ver": "24.10.10.1632"
 		},
 		{
 			"id": "12ec4cfd-3f8a-4aed-9819-f0329c40116d",
 			"name": "nhl-image-interior",
 			"title": "Interior",
-			"ver": "24.10.08.1036"
+			"ver": "24.10.10.1632"
 		}
 	],
 	"tilegroups": []

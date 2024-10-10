@@ -29,7 +29,7 @@
 	"ui5Theme": "sap_horizon",
 	"header": "",
 	"customTheme": null,
-	"isExternal": false,
+	"isExternal": null,
 	"emailPattern": null,
 	"loginApp": null,
 	"enableNotifications": false,
@@ -49,7 +49,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.09.24.0935",
+	"ver": "24.10.10.1630",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -70,13 +70,13 @@
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
 			"name": "nhl-teams-small-small",
 			"title": "NHL Teams Small Small",
-			"ver": "24.10.08.1042"
+			"ver": "24.10.10.1635"
 		},
 		{
 			"id": "084633a5-96d1-4e28-bc9f-f85c15021930",
 			"name": "nhl-icon-placement",
 			"title": "Icon Placement",
-			"ver": "24.10.08.1043"
+			"ver": "24.10.10.1635"
 		}
 	]
 }

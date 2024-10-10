@@ -252,6 +252,10 @@
 	],
 	"tile_layout": [
 		{
+			"id": "fd630857-f726-4ae5-bfb2-fb7357a556c3",
+			"NAME": "NHL White Text"
+		},
+		{
 			"id": "932ebd53-ec9b-4dd1-b30c-a8449a1c5794",
 			"NAME": "Hurricanes Light"
 		},
@@ -295,6 +299,11 @@
 			"id": "bd911597-4abb-49df-891c-555cb451a70a",
 			"description": null,
 			"name": "nhl-tile-image-background-mask"
+		},
+		{
+			"id": "b1e6222a-7c59-4e61-b91f-20960d2981c9",
+			"description": null,
+			"name": "nhl-tile-image-background-brightness"
 		},
 		{
 			"id": "afaf312d-be73-4bd6-9a3b-f5b026dd4e44",

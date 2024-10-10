@@ -31,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.08.1041",
+	"ver": "24.10.10.1635",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -97,13 +97,28 @@
 	"cardFilterSaturate": null,
 	"cardBackgroundMaskImage": null,
 	"cardBackgroundMaskCustom": null,
+	"headerFilterBlur": null,
+	"enableHeaderBrightness": false,
+	"headerFilterBrightness": null,
+	"enableHeaderGrayscale": false,
+	"headerFilterGrayscale": null,
+	"enableHeaderHuerotate": false,
+	"headerFilterHuerotate": null,
+	"enableHeaderInvert": false,
+	"headerFilterInvert": null,
+	"enableHeaderOpacity": false,
+	"headerFilterOpacity": null,
+	"enableHeaderSaturate": false,
+	"headerFilterSaturate": null,
+	"headerBackgroundMaskImage": null,
+	"headerBackgroundMaskCustom": null,
 	"roles": [],
 	"tiles": [
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 			"name": "nhl-team-boston-bruins",
 			"title": "Boston Bruins",
-			"ver": "24.10.06.0956"
+			"ver": "24.10.10.1634"
 		}
 	],
 	"tilegroups": []

@@ -32,7 +32,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.01.0655",
+	"ver": "24.10.10.1634",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -98,31 +98,46 @@
 	"cardFilterSaturate": null,
 	"cardBackgroundMaskImage": null,
 	"cardBackgroundMaskCustom": null,
+	"headerFilterBlur": null,
+	"enableHeaderBrightness": false,
+	"headerFilterBrightness": null,
+	"enableHeaderGrayscale": false,
+	"headerFilterGrayscale": null,
+	"enableHeaderHuerotate": false,
+	"headerFilterHuerotate": null,
+	"enableHeaderInvert": false,
+	"headerFilterInvert": null,
+	"enableHeaderOpacity": false,
+	"headerFilterOpacity": null,
+	"enableHeaderSaturate": false,
+	"headerFilterSaturate": null,
+	"headerBackgroundMaskImage": null,
+	"headerBackgroundMaskCustom": null,
 	"roles": [],
 	"tiles": [
 		{
 			"id": "35e49df5-950d-4adb-98b7-8f1273b1f252",
 			"name": "nhl-news-story-break-out-for-canadiens",
 			"title": "Slafkovsky aiming to break out for Canadiens",
-			"ver": "24.09.25.0832"
+			"ver": "24.10.10.1633"
 		},
 		{
 			"id": "2ecc027b-8814-4141-ad35-9cfe597aed4a",
 			"name": "nhl-news-story-hall-ready-to-contribute",
 			"title": "Hall ready to contribute for Blackhawks following injury",
-			"ver": "24.10.04.0913"
+			"ver": "24.10.10.1633"
 		},
 		{
 			"id": "22c58388-f5cd-4b86-aa27-01e6f2ba55fe",
 			"name": "nhl-news-story-goalie-split-for-wild",
 			"title": "Goalie split, scoring depth keys to success for Wild",
-			"ver": "24.09.25.0825"
+			"ver": "24.10.10.1633"
 		},
 		{
 			"id": "0bf25985-5375-4df4-96e1-1c555d9ed2ac",
 			"name": "nhl-news-story-eyeing-deep-run",
 			"title": "Stamkos, Marchessault have Predators eyeing deep run",
-			"ver": "24.09.25.0829"
+			"ver": "24.10.10.1633"
 		}
 	],
 	"tilegroups": []

@@ -33,7 +33,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.08.1041",
+	"ver": "24.10.10.1635",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -99,6 +99,21 @@
 	"cardFilterSaturate": null,
 	"cardBackgroundMaskImage": null,
 	"cardBackgroundMaskCustom": null,
+	"headerFilterBlur": null,
+	"enableHeaderBrightness": false,
+	"headerFilterBrightness": null,
+	"enableHeaderGrayscale": false,
+	"headerFilterGrayscale": null,
+	"enableHeaderHuerotate": false,
+	"headerFilterHuerotate": null,
+	"enableHeaderInvert": false,
+	"headerFilterInvert": null,
+	"enableHeaderOpacity": false,
+	"headerFilterOpacity": null,
+	"enableHeaderSaturate": false,
+	"headerFilterSaturate": null,
+	"headerBackgroundMaskImage": null,
+	"headerBackgroundMaskCustom": null,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -106,19 +121,19 @@
 			"id": "cb633740-de99-4f7b-9dcb-ad4cb4c1783f",
 			"name": "nhl-teams-skinny-tiny",
 			"title": "NHL Teams - Skinny & Tiny",
-			"ver": "24.10.08.1042"
+			"ver": "24.10.10.1635"
 		},
 		{
 			"id": "9ff41169-9514-4a6f-9151-e54e987ec909",
 			"name": "nhl-teams-narrow-short",
 			"title": "NHL Teams - Narrow & Short",
-			"ver": "24.10.08.1042"
+			"ver": "24.10.10.1635"
 		},
 		{
 			"id": "7bc85ec4-45a7-4781-9fd1-5b8cc85dea78",
 			"name": "nhl-teams-small-small",
 			"title": "NHL Teams Small Small",
-			"ver": "24.10.08.1042"
+			"ver": "24.10.10.1635"
 		}
 	]
 }

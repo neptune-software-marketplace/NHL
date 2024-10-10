@@ -31,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.08.1041",
+	"ver": "24.10.10.1635",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -97,6 +97,21 @@
 	"cardFilterSaturate": null,
 	"cardBackgroundMaskImage": null,
 	"cardBackgroundMaskCustom": null,
+	"headerFilterBlur": null,
+	"enableHeaderBrightness": false,
+	"headerFilterBrightness": null,
+	"enableHeaderGrayscale": false,
+	"headerFilterGrayscale": null,
+	"enableHeaderHuerotate": false,
+	"headerFilterHuerotate": null,
+	"enableHeaderInvert": false,
+	"headerFilterInvert": null,
+	"enableHeaderOpacity": false,
+	"headerFilterOpacity": null,
+	"enableHeaderSaturate": false,
+	"headerFilterSaturate": null,
+	"headerBackgroundMaskImage": null,
+	"headerBackgroundMaskCustom": null,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
@@ -104,19 +119,19 @@
 			"id": "23c7fce8-5925-4ef8-acfb-d515cf79acac",
 			"name": "nhl-tile-title",
 			"title": "Tile & Tile Group Title Size",
-			"ver": "24.10.08.1045"
+			"ver": "24.10.10.1636"
 		},
 		{
 			"id": "084633a5-96d1-4e28-bc9f-f85c15021930",
 			"name": "nhl-icon-placement",
 			"title": "Icon Placement",
-			"ver": "24.10.08.1043"
+			"ver": "24.10.10.1635"
 		},
 		{
 			"id": "031bbf06-fe74-44f9-a89c-92caac0614a5",
 			"name": "nhl-tile-buttons",
 			"title": "Tile Buttons",
-			"ver": "24.10.08.1043"
+			"ver": "24.10.10.1635"
 		}
 	]
 }
