@@ -120,6 +120,9 @@
 	"imageDark": null,
 	"imageTabletDark": null,
 	"imageMobileDark": null,
+	"imageDarkHeightMedia": null,
+	"imageTabletDarkHeightMedia": null,
+	"imageMobileDarkHeightMedia": null,
 	"roles": [],
 	"tiles": [],
 	"tilegroups": [
