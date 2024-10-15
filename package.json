@@ -1,7 +1,7 @@
 {
-  "name": "NHL",
+  "name": "neptunesoftware-dxp-demo-launchpad",
   "version": "1.0.0",
-  "description": "Natioanal Hockey League",
+  "description": "Neptune Demo Launchpad",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
