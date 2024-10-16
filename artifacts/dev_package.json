@@ -7,7 +7,7 @@
 	},
 	"name": "neptunesoftware-dxp-demo-launchpad",
 	"description": "Neptune Software DXP Demo Launchpad",
-	"ver": "24.10.15.1021",
+	"ver": "24.10.16.0957",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": true,
