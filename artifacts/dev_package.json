@@ -9,9 +9,16 @@
 	"description": "Neptune Software DXP Demo Launchpad",
 	"ver": "24.10.15.1021",
 	"enableCICD": true,
+	"internalReadOnly": false,
 	"excludeTemplateFiles": true,
 	"roles": [],
 	"apps": [
+		{
+			"id": "6efffd5d-b437-4959-a424-a6701dcd997d",
+			"application": "dxp_demo_custom_style_variables",
+			"title": "",
+			"description": ""
+		},
 		{
 			"id": "691f8ae0-221e-449e-a3af-d711e1548c1b",
 			"application": "dxp_demo_nhl_skater_stats",
