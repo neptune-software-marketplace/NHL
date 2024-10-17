@@ -74,7 +74,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "24.10.14.2247",
+	"ver": "24.10.16.1849",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -125,7 +125,7 @@
 			"id": "6ee4ebe8-a57c-48c0-b805-da0037aa3307",
 			"name": "dxp-demo-menu-favorites",
 			"title": "",
-			"ver": "24.10.13.2200"
+			"ver": "24.10.16.1029"
 		},
 		{
 			"id": "41b472ad-657a-4ea5-95ae-3f693f555f23",

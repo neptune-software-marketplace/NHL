@@ -4,7 +4,7 @@
 	"createdBy": "morten",
 	"NAME": "dxp-demo-hurricanes-dark",
 	"DESCR": null,
-	"ver": "24.10.16.1002",
+	"ver": "24.10.17.1124",
 	"CUSTOM_CSS": null,
 	"PAGE_BACK_COLOR": "transparent",
 	"PAGE_BACK_IMAGE": "/media/root/neptunesoftware-dxp-demo-launchpad/nhl/hurricanes/hurricanes-wallpaper-dark.jpg",
@@ -129,5 +129,6 @@
 	"MOB_TOP_BACK": null,
 	"FAVICON": "/media/root/neptunesoftware-dxp-demo-launchpad/nhl/hurricanes/hurricanes-logo.svg",
 	"STATUSBAR_BASE": null,
+	"THEME_BACK_COLOR": "#240004",
 	"package": "a2e37f9c-8a03-424f-8b89-e2e55012c7f6"
 }

@@ -127,6 +127,11 @@
 			"name": "dxp-demo-team-tampa-bay-lightning"
 		},
 		{
+			"id": "9b570512-0afd-4eb0-989e-865d6be75c23",
+			"description": null,
+			"name": "dxp-demo-app-style-variables"
+		},
+		{
 			"id": "98f8f903-732b-42d9-ada9-f2d855fa3840",
 			"description": null,
 			"name": "dxp-demo-image-filter-brightness-background"

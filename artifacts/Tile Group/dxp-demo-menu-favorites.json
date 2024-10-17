@@ -4,7 +4,8 @@
 	"createdBy": "morten",
 	"translation": [],
 	"tilesOrder": [
-		"757ca572-4401-4e4f-8e7a-56309357a526"
+		"757ca572-4401-4e4f-8e7a-56309357a526",
+		"9b570512-0afd-4eb0-989e-865d6be75c23"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
@@ -32,7 +33,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "24.10.13.2200",
+	"ver": "24.10.16.1029",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -124,6 +125,12 @@
 	"imageMobileDarkHeightMedia": null,
 	"roles": [],
 	"tiles": [
+		{
+			"id": "9b570512-0afd-4eb0-989e-865d6be75c23",
+			"name": "dxp-demo-app-style-variables",
+			"title": "Style Variables",
+			"ver": "24.10.16.1029"
+		},
 		{
 			"id": "757ca572-4401-4e4f-8e7a-56309357a526",
 			"name": "dxp-demo-team-boston-bruins",
